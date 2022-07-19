@@ -3,17 +3,23 @@
 Welcome to my GitHub!
 
 <div>
-<img width="300" src="https://c.tenor.com/eoP4KDwExdcAAAAM/phil-dunphy-ty-burrell.gif">
+
+<img width="300"  src="https://c.tenor.com/eoP4KDwExdcAAAAM/phil-dunphy-ty-burrell.gif"> 
+
 </p>
+(Be a little Phil Dunphy, never hurt anybody)
+</p>
+
 </div>
 
-
-
+<div>
+</p>
 
 - 🔭 I’m currently working on Azure and Technical Sales at Microsoft Brazil.
 - 👨‍🎓  I’m have experience with Oracle Database, SQL Server, RedHat Linux, Windows Server 2016, Azure, Azure DevOps and Oracle Cloud.
 - 🌱 I’m currently learning Java OO (Don't forget to check out my "Aprendendo_Java" repository), C, GoLang, Prolog, Linux, Rust, PL/SQL, Azure and Phyton.
 - 😄 Pronouns: He/Him
+</div>
 
 ## Stats ⚙
 
