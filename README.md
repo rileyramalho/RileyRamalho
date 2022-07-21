@@ -2,9 +2,9 @@
 
 Welcome to my GitHub!
 
-<div>
+<div align="center">
 
-<img width="300"  src="https://c.tenor.com/eoP4KDwExdcAAAAM/phil-dunphy-ty-burrell.gif"> 
+<img  height="400" width="400"  src="https://c.tenor.com/eoP4KDwExdcAAAAM/phil-dunphy-ty-burrell.gif"> 
 
 </p>
 (Be a little Phil Dunphy, never hurt anybody)
